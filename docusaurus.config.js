@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DaSnipe HomeLab Documentation',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Documentation, Ramblings, Tutorials and (hopefully) more!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -131,7 +131,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Steven McElligott, Inc. Powered by power smarter than me.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Steven McElligott, Inc. Powered by people smarter than me.`,
       },
       prism: {
         theme: lightCodeTheme,

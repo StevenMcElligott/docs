@@ -134,8 +134,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Steven McElligott, Inc. Powered by people smarter than me.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: darkCodeTheme,
       },
     }),
 };

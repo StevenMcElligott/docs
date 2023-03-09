@@ -134,9 +134,18 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Steven McElligott, Inc. Powered by people smarter than me.`,
       },
       prism: {
-        theme: darkCodeTheme,
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme
       },
     }),
 };
 
-module.exports = config;
+module.exports = {
+  themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
+  },
+};

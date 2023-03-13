@@ -4,7 +4,7 @@ Quick setup for cert-manager in case I forget.
 
 ## Prerequisites
 
-Make sure to have the **enterprise** train enabled for `TrueCharts` as discussed [here](https://truecharts.org/manual/SCALE/guides/Adding-TrueCharts#adding-truecharts).
+Make sure to have the **enterprise** train enabled for `TrueCharts` as discussed [here](https://truecharts.org/manual/SCALE/guides/scale-intro).
 
 Search for cert-manager in the `available apps` tab and click **install**.
 

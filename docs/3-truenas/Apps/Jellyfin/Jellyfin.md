@@ -1,4 +1,4 @@
-# Setup Guide and IPTV VPN setup info
+# Jellyfin and IPTV VPN setup info
 
 **Jellyfin** Media Server is a free fully open-source solution to watch your media from anywhere
 and our app is a simple way to install it on your TrueNAS SCALE server. I wrote this for [TrueCharts](https://truecharts.org) so might as well load it here. The bonus stuff is for me to remember my IPTV setup and bonus.

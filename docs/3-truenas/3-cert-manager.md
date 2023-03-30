@@ -31,6 +31,6 @@ If you have one domain just use `Cert-Manager clusterIssuer`. Can **NOT** be use
 
 :::
 
-![cert-manager1](img/cert-manager1.png)
+![cert-manager2](img/cert-manager2.png)
 
 If you want to support multiple domains, use the `TLS` option to create each one, basically an extra step each time.

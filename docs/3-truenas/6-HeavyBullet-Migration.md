@@ -64,7 +64,7 @@ bash migrate.sh
 ![New App Install](img/New-App-Config.png)
 
     c. Watch the app finish
-    ![New App Finish](img/New-App-Finish.png)
+![New App Finish](img/New-App-Finish.png)
 
 5. Enjoy new app
 

@@ -1,16 +1,16 @@
 # Cert-Manager Setup Guide
 
-Quick setup for cert-manager in case I forget.
+This guide will walk you through setting up cert-manager, certificate management for Kubernetes
 
 ## Prerequisites
 
-Make sure to have the **enterprise** train enabled for `TrueCharts` as discussed [here](https://truecharts.org/manual/SCALE/guides/scale-intro).
+Ensure you have the **enterprise** train enabled for `TrueCharts` as discussed [here](https://truecharts.org/manual/SCALE/guides/getting-started/#adding-truecharts).
 
-Search for cert-manager in the `available apps` tab and click **install**.
+Search for cert-manager in the `Apps` menu | `Available Applications` tab and click **Install**.
 
-## Cloudflare DNS
+## Cloudflare DNS-Provider
 
-You can setup multiple domains with a single cert-manager app, all you have to do is either add the global API key (not recommended) or create multiple ACME Issuer for each domain if you created an API token.
+You can setup multiple domains with a single cert-manager app, all you have to do is either add the global API key (not recommended) or create multiple ACME Issuers for each domain if you created an API token.
 
 - Give the certificate a name (eg domain or "maincert", etc).
 - Select the correct provider, for example `Cloudflare`.

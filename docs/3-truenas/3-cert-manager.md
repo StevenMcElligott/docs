@@ -23,20 +23,21 @@ You can setup multiple domains with a single cert-manager app, all you have to d
 
 ## cert-manager App
 
-**NOTE** It is normal that the app does not run, there are no events, no logs and no shell. This is by design.
+> **Note**
+> 
+> It is normal that the app does not run, there are no events, no logs and no shell. This is by design.
 
 ![cert-manager3](img/cert-manager3.png)
 
 ## How to Add Ingress to Apps with cert-manager
 
-Here's a small example on how to add ingress to an app with cert-manager if its a single domain only.
+Here's an example on how to add ingress to an app with cert-manager for a single domain only.
 
-:::note
+Add the name of the `ACME Issuer` into `Cert-Manager clusterIssuer`
 
-If you have one domain just use `Cert-Manager clusterIssuer`. Can **NOT** be used combined with tls option below
-
-:::
+> **Warning**
+> Do **NOT** use this combined with the `TLS-Settings`.
 
 ![cert-manager2](img/cert-manager2.png)
 
-If you want to support multiple domains, use the `TLS` option to create each one, basically an extra step each time.
+If you want to support multiple domains, use the `TLS-Settings` option to create each one, basically an extra step each time.

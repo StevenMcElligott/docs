@@ -44,3 +44,12 @@ Add the name of the `ACME Issuer` into `Cert-Manager clusterIssuer`
 ![cert-manager2](img/cert-manager2.png)
 
 If you want to support multiple domains, use the `TLS-Settings` option to create each one, basically an extra step each time.
+
+## Verifying cert-manager is working
+
+Once install using the Ingress settings above, you can see the `Application Events` for the app in question to pull the certificate and issue the challenge directly. See the example below:
+
+![cert-manager4](img/cert-manager4.png)
+![cert-manager5](img/cert-manager5.png)
+
+All is automated by `cert-manager`

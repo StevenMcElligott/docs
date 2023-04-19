@@ -39,7 +39,7 @@ Here we find the names of the deploys we want to scale down. For apps installed 
 
 For apps installed with a different name, it will be `<app-name>-<default-name>`.
 
-So for `vaultwarden` (the default name), it will be `vaultwarden`. But for the vaultwarden app that was installed with the name `testwarden`, it will be `testwarden-vaultwarden`.
+So for `photoprism` (the default name), it will be `photoprism`. But for the vaultwarden app that was installed with the name `photoprism`, it will be `photoprism2`.
 
 :::caution Replace the names in the angle brackets before executing commands
 

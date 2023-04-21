@@ -14,13 +14,7 @@ Basic setup of the [TrueCharts](https://www.truecharts.org) [Gluetun](https://gi
 
 ![VPN Gluetun 1](img/Gluetun-VPN1.png)
 
-`Gluetun` works with Environment Variables so we need to configure them below. I've split them up to the `TrueCharts` specific ones (see above) and the `VPN Provider` specific ones (see blow)
-
-- Truecharts Specific Env Vars (that worked for me)
-
-    - `FIREWALL_OUTBOUND_SUBNETS`: Enter `172.16.0.0/12` for Kubernetes and then your local lan IP (eg `192.168.88.0/24` for me)
-    - `DOT`: Enter `off`
-    - `DNS_KEEP_NAMESERVER`: `on`
+`Gluetun` works with Environment Variables so we need to configure them below. Enter your `VPN Provider` specific ones (see blow)
 
 -  VPN Provider specific Env Vars
 

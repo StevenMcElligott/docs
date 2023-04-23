@@ -2,14 +2,12 @@
 
 Basic setup of the [TrueCharts](https://www.truecharts.org) [Gluetun](https://github.com/qdm12/gluetun/) VPN addon
 
-<br >
 
 ## Prerequisites
 
 - Anything migrated to the new common chart that features Gluetun
 - Ideally a VPN provider supported by Gluetun, check the [Wiki](https://github.com/qdm12/gluetun/wiki) on the [Gluetun](https://github.com/qdm12/gluetun/) site for more info
 
-<br >
 
 ## Gluetun VPN Addon Setup
 
@@ -30,13 +28,12 @@ Basic setup of the [TrueCharts](https://www.truecharts.org) [Gluetun](https://gi
 - Scroll to the [Gluetun Wiki](https://github.com/qdm12/gluetun/wiki) and find your specific provider and enter their info, eg [Windscribe Wiki Page](
 https://github.com/qdm12/gluetun/wiki/Windscribe)
 
-<br >
 
 ### Wireguard
 
 I will demonstrate using 'Mullvad' as the provider. 
 
-- I pull my private key and endpoint port from a Mullvad wireguard config file. 
+- I pull my private key, endpoint port and Wireguard Addresses from a Mullvad wireguard config file. 
 
 ![Mullvad Config File](img/Gluetun-VPN4.png)
 
@@ -44,7 +41,7 @@ I will demonstrate using 'Mullvad' as the provider.
 
 Now we can enter the Env Vars
 
-- Install app as per usual and scroll down the to the `Addons` section
+- Install app as per usual and scroll down the to the `Addons` section, click `Add` for each new environment variable
 
 ![WG ENV Vars 1](img/Gluetun-VPN5.png)
 
@@ -56,18 +53,18 @@ Now we can enter the Env Vars
 
 - VPN Config File Location is not necessary, we will be using environment variables instead, so leave it blank
 
-![WG ENV Vars 2](img/Gluetun-VPN5.png)
+![WG ENV Vars 2](img/Gluetun-VPN6.png)
 
 - `VPN_TYPE` is `wireguard`
 - `VPN_SERVICE_PROVIDER` is `mullvad` in my case
 
-![WG ENV Vars 3](img/Gluetun-VPN6.png)
+![WG ENV Vars 3](img/Gluetun-VPN7.png)
 
 - `WIREGUARD_PRIVATE_KEY` is the private key from the Mullvad config file above
 - `FIREWALL_VPN_INPUT_PORTS` is the *port forward* port, to forward a port with Mullvad, follow steps 2 and 3 from here: [Mullvad Port Forwarding](https://mullvad.net/en/help/port-forwarding-and-mullvad/)
 - `WIREGUARD_ADDRESSES` is the Mullvad endpoint IP address, found in the Mullvad config file above
 
-![WG ENV Vars 4](img/Gluetun-VPN7.png)
+![WG ENV Vars 4](img/Gluetun-VPN8.png)
 
 - `SERVER_CITIES` is the Mullvad server city, it should likely be in from the same city your config file is from, and should share the same city as your forwarded port. In my case, I am using the `Toronto` server city, and my forwarded port is from `Toronto`.
 

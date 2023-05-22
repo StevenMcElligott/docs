@@ -2,7 +2,7 @@
 
 :::info Credit to Xstar97 for this page
 
-All the info here is generated from [Xstar97](xstar97thenoob.com) and his repository [here](https://github.com/Xstar97TheNoob/apps/tree/main). Check out his [documentation](https://docs.xstar97thenoob.com/docs) if you want more info and more documents than I keep here.
+All the info here is generated from [Xstar97](xstar97thenoob.com) and his repository [here](https://github.com/Xstar97TheNoob/apps/tree/main). Check out his [documentation](https://docs.xstar97thenoob.com/docs/platforms/scale/apps-and-services/my-apps-and-services) if you want more info and more documents than I keep here.
 
 :::
 

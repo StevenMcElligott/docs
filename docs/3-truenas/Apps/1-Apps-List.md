@@ -46,7 +46,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/onlyoffice-document-server.png" width="48" height="36" /> | **onlyoffice-document-server** | ✅ | ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/openvscode-server.png" width="48" height="36" /> | **openvscode-server** | ✅ | Openvscode-server provides a version of VS Code that runs a server on a remote machine. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/paperless-ngx.png" width="48" height="36" /> | **paperless-ngx** | ✅ | Paperless-ngx is an application by Daniel Quinn and contributors that indexes your scanned documents. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pgadmin.png" width="48" height="36" /> | **pgadmin<sup>x2</sup>** | ✅ | Web-Based postgresql database management utility |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pgadmin.png" width="48" height="36" /> | **pgadmin** | ✅ | Web-Based postgresql database management utility |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/photoprism.png" width="48" height="36" /> | **photoprism** | ✅ | PhotoPrismÂ® is a server-based application for browsing, organizing and sharing your personal photo collection |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pialert.png" width="48" height="36" /> | **pialert** | ✅ | Monitoring your WIFI/LAN network and alerting of new (intruder or hacker) devices. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pihole.png" width="48" height="36" /> | **pihole** | ✅ | DNS and Ad-filtering for your network |
@@ -63,5 +63,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress 🆕** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/youtubedl-material.png" width="48" height="36" /> | **youtubedl-material** | ✅ | YoutubeDL-Material is a Material Design frontend for youtube-dl. |
 
- Installed Services Count: **51**
+ Installed Services Count: **50**
 ___

@@ -60,7 +60,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png" width="48" height="36" /> | **uptime-kuma** | ✅ | A fancy self-hosted monitoring tool |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | 👔 | Unofficial Bitwarden compatible server written in Rust |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress 🆕** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/youtubedl-material.png" width="48" height="36" /> | **youtubedl-material** | ✅ | YoutubeDL-Material is a Material Design frontend for youtube-dl. |
 
  Installed Services Count: **50**

@@ -50,7 +50,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pgadmin.png" width="48" height="36" /> | **pgadmin** | ✅ | Web-Based postgresql database management utility |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/photoprism.png" width="48" height="36" /> | **photoprism** | ✅ | PhotoPrismÂ® is a server-based application for browsing, organizing and sharing your personal photo collection |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pialert.png" width="48" height="36" /> | **pialert** | ✅ | Monitoring your WIFI/LAN network and alerting of new (intruder or hacker) devices. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pihole.png" width="48" height="36" /> | **pihole 🆕** | ✅ | DNS and Ad-filtering for your network |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pihole.png" width="48" height="36" /> | **pihole** | ✅ | DNS and Ad-filtering for your network |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png" width="48" height="36" /> | **prowlarr** | ✅ | Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/qbittorrent.png" width="48" height="36" /> | **qbittorrent** | ✅ | qBittorrent is a cross-platform free and open-source BitTorrent client |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png" width="48" height="36" /> | **radarr** | ✅ | A fork of Sonarr to work with movies à la Couchpotato |

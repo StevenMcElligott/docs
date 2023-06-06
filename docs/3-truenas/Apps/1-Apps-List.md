@@ -39,7 +39,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="48" height="36" /> | **littlelink** | ✅ | Easy platform to combine all your social links |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/lldap.png" width="48" height="36" /> | **lldap 🆕** | ✅ | Lightweight ldap server for authentication and user management |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/meshcentral.png" width="48" height="36" /> | **meshcentral** | ✅ | MeshCentral is a full computer management web site |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" width="48" height="36" /> | **metallb 🆕** | 👷 | A network load-balancer implementation for Kubernetes using standard routing protocols |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" width="48" height="36" /> | **metallb** | 👷 | A network load-balancer implementation for Kubernetes using standard routing protocols |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb-config.png" width="48" height="36" /> | **metallb-config 🆕** | 👔 | A network load-balancer implementation for Kubernetes using standard routing protocols |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mongo-express.png" width="48" height="36" /> | **mongo-express** | ⚠️ | mongo-express is a web-based MongoDB admin interface written in Node.js, Express.js, and Bootstrap3. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mosquitto.png" width="48" height="36" /> | **mosquitto** | ✅ | Eclipse Mosquitto - An open source MQTT broker |

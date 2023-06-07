@@ -37,7 +37,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.png" width="48" height="36" /> | **jellyfin<sup>x2</sup>** | ✅ | Jellyfin is a Free Software Media System |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/librespeed.png" width="48" height="36" /> | **librespeed** | ✅ | Librespeed is a HTML5 webpage to test upload and download speeds |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="48" height="36" /> | **littlelink** | ✅ | Easy platform to combine all your social links |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/lldap.png" width="48" height="36" /> | **lldap 🆕** | ✅ | Lightweight ldap server for authentication and user management |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/lldap.png" width="48" height="36" /> | **lldap** | ✅ | Lightweight ldap server for authentication and user management |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/meshcentral.png" width="48" height="36" /> | **meshcentral** | ✅ | MeshCentral is a full computer management web site |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" width="48" height="36" /> | **metallb** | 👷 | A network load-balancer implementation for Kubernetes using standard routing protocols |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb-config.png" width="48" height="36" /> | **metallb-config 🆕** | 👔 | A network load-balancer implementation for Kubernetes using standard routing protocols |

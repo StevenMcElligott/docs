@@ -20,9 +20,10 @@ Train Descriptions:
 | :-------------: |:-------------: | :-------------:	| :-------------	|
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" /> | **authelia** | 👔 | Authelia is a Single Sign-On Multi-Factor portal for web apps |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authentik.png" width="48" height="36" /> | **authentik 🆕** | ⚠️ | Authentik is an open-source Identity Provider focused on flexibility and versatility. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png" width="48" height="36" /> | **cert-manager** | 👔 | Certificate management for Kubernetes |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/clamav.png" width="48" height="36" /> | **clamav** | ✅ | ClamAV is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflareddns.png" width="48" height="36" /> | **cloudflareddns** | ✅ | Automate Cloudflare DNS records for those with a dynamic IP. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudnative-pg.png" width="48" height="36" /> | **cloudnative-pg 🆕** | 👷 | CloudNativePG is a clustered postgresql database operator |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.png" width="48" height="36" /> | **clusterissuer 🆕** | 👔 | Certificate management for Kubernetes |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" width="48" height="36" /> | **custom-app** | ✅ | Advanced tool to create your own TrueCharts-based App |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/dell-idrac-fan-controller.png" width="48" height="36" /> | **dell-idrac-fan-controller** | ✅ | Control your Dell PowerEdge fans via IPMI |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x5</sup>** | ✅ | Allow external services to be used like Apps. |
@@ -30,7 +31,6 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/frigate.png" width="48" height="36" /> | **frigate** | ⚠️ | NVR With Realtime Object Detection for IP Cameras |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png" width="48" height="36" /> | **home-assistant** | ✅ | home-assistant App for TrueNAS SCALE |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/homepage.png" width="48" height="36" /> | **homepage** | ✅ | A highly customizable homepage |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/immich.png" width="48" height="36" /> | **immich** | ✅ | High performance self-hosted photo and video backup solution. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="48" height="36" /> | **jackett** | ✅ | API Support for your favorite torrent trackers. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.png" width="48" height="36" /> | **jellyfin** | ✅ | Jellyfin is a Free Software Media System |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/librespeed.png" width="48" height="36" /> | **librespeed** | ✅ | Librespeed is a HTML5 webpage to test upload and download speeds |
@@ -42,7 +42,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mosquitto.png" width="48" height="36" /> | **mosquitto** | ✅ | Eclipse Mosquitto - An open source MQTT broker |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png" width="48" height="36" /> | **n8n** | ✅ | n8n is an extendable workflow automation tool. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/navidrome.png" width="48" height="36" /> | **navidrome** | ✅ | Navidrome is an open source web-based music collection server and streamer |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png" width="48" height="36" /> | **nextcloud<sup>x2</sup>** | ✅ | A private cloud server that puts the control and security of your own data back into your hands. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png" width="48" height="36" /> | **nextcloud** | ✅ | A private cloud server that puts the control and security of your own data back into your hands. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/novnc.png" width="48" height="36" /> | **novnc** | ✅ | The open source VNC client |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.png" width="48" height="36" /> | **omada-controller** | ✅ | Omada is a SDN tool for TP-Link Omada hardware |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/onlyoffice-document-server.png" width="48" height="36" /> | **onlyoffice-document-server** | ✅ | ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time. |
@@ -63,5 +63,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/youtubedl-material.png" width="48" height="36" /> | **youtubedl-material** | ✅ | YoutubeDL-Material is a Material Design frontend for youtube-dl. |
 
- Installed Services Count: **49**
+ Installed Services Count: **48**
 ___

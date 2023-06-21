@@ -19,7 +19,7 @@ Train Descriptions:
 |Icon|Chart|Train|Description|
 | :-------------: |:-------------: | :-------------:	| :-------------	|
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" /> | **authelia** | 👔 | Authelia is a Single Sign-On Multi-Factor portal for web apps |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authentik.png" width="48" height="36" /> | **authentik 🆕** | ⚠️ | Authentik is an open-source Identity Provider focused on flexibility and versatility. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authentik.png" width="48" height="36" /> | **authentik** | ⚠️ | Authentik is an open-source Identity Provider focused on flexibility and versatility. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/clamav.png" width="48" height="36" /> | **clamav** | ✅ | ClamAV is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflareddns.png" width="48" height="36" /> | **cloudflareddns** | ✅ | Automate Cloudflare DNS records for those with a dynamic IP. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudnative-pg.png" width="48" height="36" /> | **cloudnative-pg 🆕** | 👷 | CloudNativePG is a clustered postgresql database operator |

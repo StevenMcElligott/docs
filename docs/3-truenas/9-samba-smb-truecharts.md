@@ -17,5 +17,5 @@ Change the user to apps and the group to apps. Check Apply User, Apply Group and
 Go to Shares, click Add and select the path to your dataset.
 Click Advanced options and put the following in the Auxiliary Parameters field:
 
-> force user=apps
+> force user=apps <br/>
 > force group=apps

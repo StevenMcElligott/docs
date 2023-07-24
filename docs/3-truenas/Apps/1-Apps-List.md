@@ -64,7 +64,8 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wizarr.png" width="48" height="36" /> | **wizarr** | ✅ | A automatic user invitation system for Plex. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/xen-orchestra.png" width="48" height="36" /> | **xen-orchestra 🆕** | ✅ | Xen-Orchestra is a Web-UI for managing your existing XenServer infrastructure. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/youtubedl-material.png" width="48" height="36" /> | **youtubedl-material** | ✅ | YoutubeDL-Material is a Material Design frontend for youtube-dl. |
 
- Installed Services Count: **49**
+ Installed Services Count: **50**
 ___

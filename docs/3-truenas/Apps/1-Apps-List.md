@@ -47,6 +47,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png" width="48" height="36" /> | **nextcloud** | ✅ | A private cloud server that puts the control and security of your own data back into your hands. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/novnc.png" width="48" height="36" /> | **novnc** | ✅ | The open source VNC client |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.png" width="48" height="36" /> | **omada-controller** | ✅ | Omada is a SDN tool for TP-Link Omada hardware |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/onlyoffice-document-server.png" width="48" height="36" /> | **onlyoffice-document-server 🆕** | ✅ | ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/openvscode-server.png" width="48" height="36" /> | **openvscode-server** | ✅ | Openvscode-server provides a version of VS Code that runs a server on a remote machine. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/paperless-ngx.png" width="48" height="36" /> | **paperless-ngx** | ✅ | Paperless-ngx is an application by Daniel Quinn and contributors that indexes your scanned documents. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pgadmin.png" width="48" height="36" /> | **pgadmin** | ✅ | Web-Based postgresql database management utility |
@@ -64,7 +65,6 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wizarr.png" width="48" height="36" /> | **wizarr** | ✅ | A automatic user invitation system for Plex. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/xen-orchestra.png" width="48" height="36" /> | **xen-orchestra 🆕** | ✅ | Xen-Orchestra is a Web-UI for managing your existing XenServer infrastructure. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/youtubedl-material.png" width="48" height="36" /> | **youtubedl-material** | ✅ | YoutubeDL-Material is a Material Design frontend for youtube-dl. |
 
  Installed Services Count: **50**

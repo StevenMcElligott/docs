@@ -26,10 +26,10 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.png" width="48" height="36" /> | **clusterissuer** | 👔 | Certificate management for Kubernetes |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" width="48" height="36" /> | **custom-app** | ✅ | Advanced tool to create your own TrueCharts-based App |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/dell-idrac-fan-controller.png" width="48" height="36" /> | **dell-idrac-fan-controller** | ✅ | Control your Dell PowerEdge fans via IPMI |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/doublecommander.png" width="48" height="36" /> | **doublecommander 🆕** | ✅ | A free cross platform open source file manager with two panels side by side. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/doublecommander.png" width="48" height="36" /> | **doublecommander** | ✅ | A free cross platform open source file manager with two panels side by side. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x3</sup>** | ✅ | Allow external services to be used like Apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/filebrowser.png" width="48" height="36" /> | **filebrowser** | ✅ | Filebrowser provides a file managing interface within a specified directory |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/filezilla.png" width="48" height="36" /> | **filezilla 🆕** | ⚠️ | A Helm chart for Kubernetes |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/filezilla.png" width="48" height="36" /> | **filezilla** | ⚠️ | A Helm chart for Kubernetes |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/frigate.png" width="48" height="36" /> | **frigate** | ✅ | NVR With Realtime Object Detection for IP Cameras |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png" width="48" height="36" /> | **home-assistant** | ✅ | home-assistant App for TrueNAS SCALE |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/homepage.png" width="48" height="36" /> | **homepage** | ✅ | A highly customizable homepage |
@@ -47,7 +47,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mosquitto.png" width="48" height="36" /> | **mosquitto** | ✅ | Eclipse Mosquitto - An open source MQTT broker |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png" width="48" height="36" /> | **n8n** | ✅ | n8n is an extendable workflow automation tool. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/navidrome.png" width="48" height="36" /> | **navidrome** | ✅ | Navidrome is an open source web-based music collection server and streamer |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/netdata.png" width="48" height="36" /> | **netdata 🆕** | ✅ | Netdata is high-fidelity infrastructure monitoring and troubleshooting. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/netdata.png" width="48" height="36" /> | **netdata** | ✅ | Netdata is high-fidelity infrastructure monitoring and troubleshooting. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png" width="48" height="36" /> | **nextcloud** | ✅ | A private cloud server that puts the control and security of your own data back into your hands. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/novnc.png" width="48" height="36" /> | **novnc** | ✅ | The open source VNC client |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.png" width="48" height="36" /> | **omada-controller** | ✅ | Omada is a SDN tool for TP-Link Omada hardware |
@@ -63,6 +63,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png" width="48" height="36" /> | **radarr** | ✅ | A fork of Sonarr to work with movies à la Couchpotato |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" /> | **scrutiny** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/seafile.png" width="48" height="36" /> | **seafile** | ✅ | Reliable and Performant File Sync and Share Solution |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/sftpgo.png" width="48" height="36" /> | **sftpgo 🆕** | ⚠️ | Fully featured and highly configurable SFTP server with optional HTTP/S, FTP, FTPS and WebDAV support. Several storage backends are supported: local filesystem, encrypted local filesystem, S3 (compatible) Object Storage, Google Cloud Storage, Azure Blob Storage, SFTP. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.png" width="48" height="36" /> | **sonarr** | ✅ | Smart PVR for newsgroup and bittorrent users |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/tailscale.png" width="48" height="36" /> | **tailscale** | ✅ | Tailscale lets you connect your devices and users together in your own secure virtual private network |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | 👔 | Traefik is a flexible reverse proxy and Ingress Provider. |
@@ -71,5 +72,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/youtubedl-material.png" width="48" height="36" /> | **youtubedl-material** | ✅ | YoutubeDL-Material is a Material Design frontend for youtube-dl. |
 
- Installed Services Count: **54**
+ Installed Services Count: **55**
 ___

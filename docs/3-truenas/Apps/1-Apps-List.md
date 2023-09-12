@@ -58,6 +58,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/photoprism.png" width="48" height="36" /> | **photoprism** | ✅ | PhotoPrismÂ® is a server-based application for browsing, organizing and sharing your personal photo collection |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pihole.png" width="48" height="36" /> | **pihole** | ✅ | DNS and Ad-filtering for your network |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plexripper.png" width="48" height="36" /> | **plexripper** | ✅ | A multi-platform media downloader that indexes and downloads content from your accessible Plex servers. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/projectsend.png" width="48" height="36" /> | **projectsend 🆕** | ✅ | ProjectSend is a self-hosted application that lets you upload files and assign them to specific clients that you create yourself. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prometheus-operator.png" width="48" height="36" /> | **prometheus-operator** | 👷 | Prometheus Operator is an operator for prometheus |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png" width="48" height="36" /> | **prowlarr** | ✅ | Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/qbitrr.png" width="48" height="36" /> | **qbitrr** | ⚠️ | A simple script to monitor qBit and communicate with Radarr and Sonarr. |
@@ -73,5 +74,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/youtubedl-material.png" width="48" height="36" /> | **youtubedl-material** | ✅ | YoutubeDL-Material is a Material Design frontend for youtube-dl. |
 
- Installed Services Count: **57**
+ Installed Services Count: **58**
 ___

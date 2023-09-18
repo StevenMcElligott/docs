@@ -24,6 +24,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflareddns.png" width="48" height="36" /> | **cloudflareddns** | ✅ | Automate Cloudflare DNS records for those with a dynamic IP. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudnative-pg.png" width="48" height="36" /> | **cloudnative-pg** | 👷 | CloudNativePG is a clustered postgresql database operator |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.png" width="48" height="36" /> | **clusterissuer** | 👔 | Certificate management for Kubernetes |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cura-novnc.png" width="48" height="36" /> | **cura-novnc 🆕** | ✅ | Enjoy Cura directly in your browser with this easy to use Chart |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" width="48" height="36" /> | **custom-app** | ✅ | Advanced tool to create your own TrueCharts-based App |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/dell-idrac-fan-controller.png" width="48" height="36" /> | **dell-idrac-fan-controller** | ✅ | Control your Dell PowerEdge fans via IPMI |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x3</sup>** | ✅ | Allow external services to be used like Apps. |
@@ -36,6 +37,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="48" height="36" /> | **jackett** | ✅ | API Support for your favorite torrent trackers. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.png" width="48" height="36" /> | **jellyfin** | ✅ | Jellyfin is a Free Software Media System |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jellystat.png" width="48" height="36" /> | **jellystat** | ✅ | A free and open source Statistics App for Jellyfin. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jenkins.png" width="48" height="36" /> | **jenkins 🆕** | ⚠️ | The gold standard in devops tools for running CI/CD pipelines. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kasm.png" width="48" height="36" /> | **kasm** | ✅ | Kasm Workspaces is a streaming platform for delivering browser-based access to desktops, applications, and web services. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/librespeed.png" width="48" height="36" /> | **librespeed** | ✅ | Librespeed is a HTML5 webpage to test upload and download speeds |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="48" height="36" /> | **littlelink** | ✅ | Easy platform to combine all your social links |
@@ -61,7 +63,6 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/projectsend.png" width="48" height="36" /> | **projectsend** | ✅ | ProjectSend is a self-hosted application that lets you upload files and assign them to specific clients that you create yourself. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prometheus-operator.png" width="48" height="36" /> | **prometheus-operator** | 👷 | Prometheus Operator is an operator for prometheus |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png" width="48" height="36" /> | **prowlarr** | ✅ | Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/qbitrr.png" width="48" height="36" /> | **qbitrr** | ⚠️ | A simple script to monitor qBit and communicate with Radarr and Sonarr. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/qbittorrent.png" width="48" height="36" /> | **qbittorrent** | ✅ | qBittorrent is a cross-platform free and open-source BitTorrent client |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png" width="48" height="36" /> | **radarr<sup>x2</sup>** | ✅ | A fork of Sonarr to work with movies à la Couchpotato |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" /> | **scrutiny** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
@@ -74,5 +75,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/youtubedl-material.png" width="48" height="36" /> | **youtubedl-material** | ✅ | YoutubeDL-Material is a Material Design frontend for youtube-dl. |
 
- Installed Services Count: **58**
+ Installed Services Count: **59**
 ___

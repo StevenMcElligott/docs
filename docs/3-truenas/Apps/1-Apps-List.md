@@ -33,6 +33,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/frigate.png" width="48" height="36" /> | **frigate<sup>x2</sup>** | ✅ | NVR With Realtime Object Detection for IP Cameras |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png" width="48" height="36" /> | **home-assistant** | ✅ | home-assistant App for TrueNAS SCALE |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/homepage.png" width="48" height="36" /> | **homepage** | ✅ | A highly customizable homepage |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/immich.png" width="48" height="36" /> | **immich 🆕** | ✅ | High performance self-hosted photo and video backup solution. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/invidious.png" width="48" height="36" /> | **invidious** | ✅ | Open source alternative front-end to YouTube. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="48" height="36" /> | **jackett<sup>x2</sup>** | ✅ | API Support for your favorite torrent trackers. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.png" width="48" height="36" /> | **jellyfin** | ✅ | Jellyfin is a Free Software Media System |
@@ -65,6 +66,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" /> | **scrutiny** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/seafile.png" width="48" height="36" /> | **seafile** | ✅ | Reliable and Performant File Sync and Share Solution |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.png" width="48" height="36" /> | **sonarr** | ✅ | Smart PVR for newsgroup and bittorrent users |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/speedtest-tracker.png" width="48" height="36" /> | **speedtest-tracker 🆕** | ⚠️ | A self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/tailscale.png" width="48" height="36" /> | **tailscale<sup>x2</sup>** | ✅ | Tailscale lets you connect your devices and users together in your own secure virtual private network |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | 👔 | Traefik is a flexible reverse proxy and Ingress Provider. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | 👔 | Unofficial Bitwarden compatible server written in Rust |
@@ -72,5 +74,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/youtubedl-material.png" width="48" height="36" /> | **youtubedl-material** | ✅ | YoutubeDL-Material is a Material Design frontend for youtube-dl. |
 
- Installed Services Count: **59**
+ Installed Services Count: **61**
 ___

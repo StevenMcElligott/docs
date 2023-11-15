@@ -31,7 +31,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png" width="48" height="36" /> | **home-assistant** | ✅ | home-assistant App for TrueNAS SCALE |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/homepage.png" width="48" height="36" /> | **homepage** | ✅ | A highly customizable homepage |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/invidious.png" width="48" height="36" /> | **invidious** | ✅ | Open source alternative front-end to YouTube. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="48" height="36" /> | **jackett 🆕** | ✅ | API Support for your favorite torrent trackers. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="48" height="36" /> | **jackett** | ✅ | API Support for your favorite torrent trackers. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.png" width="48" height="36" /> | **jellyfin** | ✅ | Jellyfin is a Free Software Media System |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jellystat.png" width="48" height="36" /> | **jellystat** | ✅ | A free and open source Statistics App for Jellyfin. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kasm.png" width="48" height="36" /> | **kasm** | ✅ | Kasm Workspaces is a streaming platform for delivering browser-based access to desktops, applications, and web services. |

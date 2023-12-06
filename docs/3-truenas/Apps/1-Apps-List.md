@@ -31,7 +31,6 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/filebrowser.png" width="48" height="36" /> | **filebrowser** | ✅ | Filebrowser provides a file managing interface within a specified directory |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/fireshare.png" width="48" height="36" /> | **fireshare 🆕** | ⚠️ | Share your game clips, videos, or other media via unique links. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/frigate.png" width="48" height="36" /> | **frigate<sup>x2</sup>** | ✅ | NVR With Realtime Object Detection for IP Cameras |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/hasty-paste.png" width="48" height="36" /> | **hasty-paste 🆕** | ⚠️ | A fast and minimal paste bin, written in Python using Quart. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png" width="48" height="36" /> | **home-assistant** | ✅ | home-assistant App for TrueNAS SCALE |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/homepage.png" width="48" height="36" /> | **homepage** | ✅ | A highly customizable homepage |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/invidious.png" width="48" height="36" /> | **invidious** | ✅ | Open source alternative front-end to YouTube. |
@@ -71,5 +70,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/youtubedl-material.png" width="48" height="36" /> | **youtubedl-material** | ✅ | YoutubeDL-Material is a Material Design frontend for youtube-dl. |
 
- Installed Services Count: **56**
+ Installed Services Count: **55**
 ___

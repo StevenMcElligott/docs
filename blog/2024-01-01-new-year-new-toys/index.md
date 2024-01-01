@@ -26,16 +26,17 @@ January 2024
 We got everything in place in there, here's the front and the back
 
 ![Jan 2024 Server Back](./Jan-01-backrack.jpg)
+
 ![Jan 2024 Server UPS](./Jan-01-UPS-level.jpg)
 
 From top to bottom here's the Hardware
 
-Old 19" Dell monitor from work (kept the extra 24" upstairs)
-Fizz Hitron Cable Modem (Currently on 400/50), one day I pray for Fiber
-OPNsense Box - Lenovo m720q
-Backup TrueNAS - Custom AMD 5900X
-Production TrueNAS - Dell R730
-UPS - Liebert 1500VA UPS
+- Old 19" Dell monitor from work (kept the extra 24" upstairs)
+- Fizz Hitron Cable Modem (Currently on 400/50), one day I pray for Fiber
+- OPNsense Box - Lenovo m720q
+- Backup TrueNAS - Custom AMD 5900X
+- Production TrueNAS - Dell R730
+- UPS - Liebert 1500VA UPS
 
 Back
 
@@ -71,8 +72,32 @@ Those updates, combined with the MLC drives I'm rocking again below, should make
 
 ![SSDs](Enterprise-SSDs.jpg)
 
+In case people are wondering what the production machine looks like
+
+**Dell Poweredge R730 13th Gen Server**
+- 2x Intel Xeon E5-2667 V4 CPUs @ 3.2ghz with 25 MB cache
+- 240 GB Ram (running at 2133mhz, and it came with 2x8gb, upgraded the rest in pairs of 16gb sticks)
+- 4 x 10tb drives in a 2x2 mirrored setup (2 Seagate Ironwolf Pros and 2 WD Red Plus)
+- 2 x 400gb Sandisk SA-620 MLC drives for Metadata
+- 1 x 256gb drive for boot (inside DVD-Rom slot)
+- 4 x 1tb Samsung 970 Evo nVME drives for apps / VMs inside a 16x PCI-E card
+- 4gb nVidia Gefore 1050 GTX ti for transcoding
+- Google Coral miniPCIE card inside adatper for ML/Frigate
+- Upgraded Networking Daughterboard (2x Intel X520 and 2x Intel i350) so you get 10gb sfp+ + 1gb RJ-45 ports
+- Added Riser 1 and Riser 3 upgrades
+
 ## Home Security
 
-The Reolinks are install
+The Reolinks are installed and running, I don't feel like going outside so here's some fun pictures from Frigate
 
-Alright enough for now, hope someone enjoyed my update haha
+Main view
+![FrigateMain](FrigateMain.png)
+
+And everything working smooth
+![FrigateDetectors](FrigateDetectors.png)
+
+## 3D Printers
+
+Bought a Creality Ender 3 S1, it's fun but I never have enough time, here's a fun print
+
+![3D Printer](3D-printer.jpg)

@@ -43,7 +43,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/meshcentral.png" width="48" height="36" /> | **meshcentral 🆕** | ✅ | MeshCentral is a full computer management web site |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" width="48" height="36" /> | **metallb** | 👷 | A network load-balancer implementation for Kubernetes using standard routing protocols |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb-config.png" width="48" height="36" /> | **metallb-config** | 👔 | A network load-balancer implementation for Kubernetes using standard routing protocols |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/misskey.png" width="48" height="36" /> | **misskey** | ✅ | Open source decentralized social media platform that's free forever! |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/minio.png" width="48" height="36" /> | **minio 🆕** | ✅ | Minio is a self-hosted S3 storage server |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mosquitto.png" width="48" height="36" /> | **mosquitto** | ✅ | Eclipse Mosquitto - An open source MQTT broker |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png" width="48" height="36" /> | **n8n** | ✅ | n8n is an extendable workflow automation tool. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/navidrome.png" width="48" height="36" /> | **navidrome** | ✅ | Navidrome is an open source web-based music collection server and streamer |
@@ -68,7 +68,6 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | 👔 | Unofficial Bitwarden compatible server written in Rust |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/xteve.png" width="48" height="36" /> | **xteve 🆕** | ✅ | M3U Proxy for Plex DVR and Emby Live TV. |
 
- Installed Services Count: **54**
+ Installed Services Count: **53**
 ___

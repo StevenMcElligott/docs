@@ -63,7 +63,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/remmina.png" width="48" height="36" /> | **remmina** | ✅ | A remote desktop client written in GTK |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" /> | **scrutiny** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.png" width="48" height="36" /> | **sonarr** | ✅ | Smart PVR for newsgroup and bittorrent users |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/strapi.png" width="48" height="36" /> | **strapi 🆕** | ✅ | Open-source headless CMS. JavaScript, fully customizable and developer-first. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/strapi.png" width="48" height="36" /> | **strapi** | ✅ | Open-source headless CMS. JavaScript, fully customizable and developer-first. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/tailscale.png" width="48" height="36" /> | **tailscale<sup>x2</sup>** | ✅ | Tailscale lets you connect your devices and users together in your own secure virtual private network |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | 👔 | Traefik is a flexible reverse proxy and Ingress Provider. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | 👔 | Unofficial Bitwarden compatible server written in Rust |

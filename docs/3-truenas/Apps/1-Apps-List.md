@@ -18,15 +18,14 @@ Train Descriptions:
 
 |Icon|Chart|Train|Description|
 | :-------------: |:-------------: | :-------------:	| :-------------	|
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ai-server.png" width="48" height="36" /> | **ai-server 🆕** | ⚠️ | A standalone, self-hosted, fast, free and Open Source Artificial Intelligence microserver for any platform, any language. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" /> | **authelia** | 👔 | Authelia is a Single Sign-On Multi-Factor portal for web apps |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/calibre.png" width="48" height="36" /> | **calibre** | ✅ | Calibre is a powerful and easy to use e-book manager. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/calibre-web.png" width="48" height="36" /> | **calibre-web** | ✅ | Calibre-Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png" width="48" height="36" /> | **cert-manager** | 👷 | Cert-Manager is a kubernetes-aware certificate manager |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/changedetection-io.png" width="48" height="36" /> | **changedetection-io 🆕** | ⚠️ | The best and simplest free open source website change detection, website watcher, restock monitor and notification service |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflareddns.png" width="48" height="36" /> | **cloudflareddns** | ✅ | Automate Cloudflare DNS records for those with a dynamic IP. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudnative-pg.png" width="48" height="36" /> | **cloudnative-pg** | 👷 | CloudNativePG is a clustered postgresql database operator |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.png" width="48" height="36" /> | **clusterissuer** | 👔 | Certificate management for Kubernetes |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" width="48" height="36" /> | **custom-app** | ✅ | Advanced tool to create your own TrueCharts-based App |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/dell-idrac-fan-controller.png" width="48" height="36" /> | **dell-idrac-fan-controller** | ✅ | Control your Dell PowerEdge fans via IPMI |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x3</sup>** | ✅ | Allow external services to be used like Apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/filebrowser.png" width="48" height="36" /> | **filebrowser** | ✅ | Filebrowser provides a file managing interface within a specified directory |
@@ -72,5 +71,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 
- Installed Services Count: **56**
+ Installed Services Count: **55**
 ___

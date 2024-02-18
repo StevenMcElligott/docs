@@ -36,7 +36,6 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" width="48" height="36" /> | **jackett** | ✅ | API Support for your favorite torrent trackers. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.png" width="48" height="36" /> | **jellyfin** | ✅ | Jellyfin is a Free Software Media System |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jellyseerr.png" width="48" height="36" /> | **jellyseerr** | ✅ | Jellyseerr is a fork of Overseerr with support for Jellyfin and Emby. It can be used to manage requests for your media library. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/jellystat.png" width="48" height="36" /> | **jellystat** | ✅ | A free and open source Statistics App for Jellyfin. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kasm.png" width="48" height="36" /> | **kasm** | ✅ | Kasm Workspaces is a streaming platform for delivering browser-based access to desktops, applications, and web services. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/librespeed.png" width="48" height="36" /> | **librespeed** | ✅ | Librespeed is a HTML5 webpage to test upload and download speeds |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png" width="48" height="36" /> | **littlelink** | ✅ | Easy platform to combine all your social links |
@@ -47,7 +46,6 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/mosquitto.png" width="48" height="36" /> | **mosquitto** | ✅ | Eclipse Mosquitto - An open source MQTT broker |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png" width="48" height="36" /> | **n8n** | ✅ | n8n is an extendable workflow automation tool. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/navidrome.png" width="48" height="36" /> | **navidrome** | ✅ | Navidrome is an open source web-based music collection server and streamer |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/netdata.png" width="48" height="36" /> | **netdata** | ✅ | Netdata is high-fidelity infrastructure monitoring and troubleshooting. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png" width="48" height="36" /> | **nextcloud** | ✅ | A private cloud server that puts the control and security of your own data back into your hands. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ollama.png" width="48" height="36" /> | **ollama** | ✅ | Get up and running with large language models locally. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.png" width="48" height="36" /> | **omada-controller** | ✅ | Omada is a SDN tool for TP-Link Omada hardware |
@@ -71,5 +69,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 
- Installed Services Count: **55**
+ Installed Services Count: **53**
 ___

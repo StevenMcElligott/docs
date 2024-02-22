@@ -28,6 +28,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/dell-idrac-fan-controller.png" width="48" height="36" /> | **dell-idrac-fan-controller** | ✅ | Control your Dell PowerEdge fans via IPMI |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x3</sup>** | ✅ | Allow external services to be used like Apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/filebrowser.png" width="48" height="36" /> | **filebrowser** | ✅ | Filebrowser provides a file managing interface within a specified directory |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" /> | **flaresolverr 🆕** | ✅ | FlareSolverr is a proxy server to bypass Cloudflare protection |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/frigate.png" width="48" height="36" /> | **frigate** | ✅ | NVR With Realtime Object Detection for IP Cameras |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png" width="48" height="36" /> | **home-assistant** | ✅ | home-assistant App for TrueNAS SCALE |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/homepage.png" width="48" height="36" /> | **homepage** | ✅ | A highly customizable homepage |
@@ -65,7 +66,6 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/tailscale.png" width="48" height="36" /> | **tailscale<sup>x2</sup>** | ✅ | Tailscale lets you connect your devices and users together in your own secure virtual private network |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | 👔 | Traefik is a flexible reverse proxy and Ingress Provider. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | 👔 | Unofficial Bitwarden compatible server written in Rust |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/velero.png" width="48" height="36" /> | **velero** | 👔 | Velero is a kubernetes-native backup solution |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress<sup>x2</sup>** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 

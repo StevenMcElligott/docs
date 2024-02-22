@@ -30,6 +30,8 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/filebrowser.png" width="48" height="36" /> | **filebrowser** | ✅ | Filebrowser provides a file managing interface within a specified directory |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" /> | **flaresolverr 🆕** | ✅ | FlareSolverr is a proxy server to bypass Cloudflare protection |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/frigate.png" width="48" height="36" /> | **frigate** | ✅ | NVR With Realtime Object Detection for IP Cameras |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/guacamole.png" width="48" height="36" /> | **guacamole 🆕** | ✅ | Apache Guacamole is a clientless remote desktop gateway. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/guacd.png" width="48" height="36" /> | **guacd 🆕** | ✅ | Guacd - Apache Guacamole is a clientless remote desktop gateway. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png" width="48" height="36" /> | **home-assistant** | ✅ | home-assistant App for TrueNAS SCALE |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/homepage.png" width="48" height="36" /> | **homepage** | ✅ | A highly customizable homepage |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/icloudpd.png" width="48" height="36" /> | **icloudpd 🆕** | ✅ | iCloudPD, syncs photos from iDevices to a single directory on TrueNAS. |
@@ -67,7 +69,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | 👔 | Traefik is a flexible reverse proxy and Ingress Provider. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | 👔 | Unofficial Bitwarden compatible server written in Rust |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress<sup>x2</sup>** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 
- Installed Services Count: **54**
+ Installed Services Count: **55**
 ___

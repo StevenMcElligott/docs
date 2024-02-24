@@ -30,8 +30,6 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/filebrowser.png" width="48" height="36" /> | **filebrowser** | ✅ | Filebrowser provides a file managing interface within a specified directory |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" /> | **flaresolverr 🆕** | ✅ | FlareSolverr is a proxy server to bypass Cloudflare protection |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/frigate.png" width="48" height="36" /> | **frigate** | ✅ | NVR With Realtime Object Detection for IP Cameras |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/guacamole.png" width="48" height="36" /> | **guacamole 🆕** | ✅ | Apache Guacamole is a clientless remote desktop gateway. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/guacd.png" width="48" height="36" /> | **guacd 🆕** | ✅ | Guacd - Apache Guacamole is a clientless remote desktop gateway. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png" width="48" height="36" /> | **home-assistant** | ✅ | home-assistant App for TrueNAS SCALE |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/homepage.png" width="48" height="36" /> | **homepage** | ✅ | A highly customizable homepage |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/icloudpd.png" width="48" height="36" /> | **icloudpd** | ✅ | iCloudPD, syncs photos from iDevices to a single directory on TrueNAS. |
@@ -50,7 +48,6 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png" width="48" height="36" /> | **n8n** | ✅ | n8n is an extendable workflow automation tool. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/navidrome.png" width="48" height="36" /> | **navidrome** | ✅ | Navidrome is an open source web-based music collection server and streamer |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png" width="48" height="36" /> | **nextcloud** | 👔 | A private cloud server that puts the control and security of your own data back into your hands. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/ollama.png" width="48" height="36" /> | **ollama** | ✅ | Get up and running with large language models locally. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.png" width="48" height="36" /> | **omada-controller** | ✅ | Omada is a SDN tool for TP-Link Omada hardware |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/onlyoffice-document-server.png" width="48" height="36" /> | **onlyoffice-document-server** | ✅ | ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/openvscode-server.png" width="48" height="36" /> | **openvscode-server** | ✅ | Openvscode-server provides a version of VS Code that runs a server on a remote machine. |
@@ -71,5 +68,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 
- Installed Services Count: **55**
+ Installed Services Count: **52**
 ___

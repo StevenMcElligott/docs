@@ -19,7 +19,6 @@ Train Descriptions:
 |Icon|Chart|Train|Description|
 | :-------------: |:-------------: | :-------------:	| :-------------	|
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" /> | **authelia** | 👔 | Authelia is a Single Sign-On Multi-Factor portal for web apps |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/bitmagnet.png" width="48" height="36" /> | **bitmagnet** | ✅ | A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/calibre.png" width="48" height="36" /> | **calibre** | ✅ | Calibre is a powerful and easy to use e-book manager. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/calibre-web.png" width="48" height="36" /> | **calibre-web** | ✅ | Calibre-Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png" width="48" height="36" /> | **cert-manager** | 👷 | Cert-Manager is a kubernetes-aware certificate manager |
@@ -71,6 +70,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | 👔 | Traefik is a flexible reverse proxy and Ingress Provider. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | 👔 | Unofficial Bitwarden compatible server written in Rust |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wisemapping.png" width="48" height="36" /> | **wisemapping 🆕** | ⚠️ | home-assistant App for TrueNAS SCALE |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 
  Installed Services Count: **57**

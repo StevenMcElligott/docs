@@ -69,7 +69,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | 👔 | Traefik is a flexible reverse proxy and Ingress Provider. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | 👔 | Unofficial Bitwarden compatible server written in Rust |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.png" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wisemapping.png" width="48" height="36" /> | **wisemapping 🆕** | ⚠️ | home-assistant App for TrueNAS SCALE |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wisemapping.png" width="48" height="36" /> | **wisemapping** | ⚠️ | home-assistant App for TrueNAS SCALE |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 
  Installed Services Count: **56**

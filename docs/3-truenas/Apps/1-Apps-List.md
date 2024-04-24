@@ -27,7 +27,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflareddns.webp" width="48" height="36" /> | **cloudflareddns** | ✅ | Automate Cloudflare DNS records for those with a dynamic IP. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudnative-pg.webp" width="48" height="36" /> | **cloudnative-pg** | 👷 | CloudNativePG is a clustered postgresql database operator |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.webp" width="48" height="36" /> | **clusterissuer** | 👷 | Certificate management for Kubernetes |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.webp" width="48" height="36" /> | **custom-app** | 👷 | Advanced tool to create your own TrueCharts-based App |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.webp" width="48" height="36" /> | **custom-app** | 👷 | Advanced tool to create your own TrueCharts-based Charts |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/dell-idrac-fan-controller.webp" width="48" height="36" /> | **dell-idrac-fan-controller** | ✅ | Control your Dell PowerEdge fans via IPMI |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.webp" width="48" height="36" /> | **external-service<sup>x3</sup>** | ✅ | Allow external services to be used like Apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/filebrowser.webp" width="48" height="36" /> | **filebrowser** | ✅ | Filebrowser provides a file managing interface within a specified directory |
@@ -50,7 +50,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/n8n.webp" width="48" height="36" /> | **n8n** | ✅ | n8n is an extendable workflow automation tool. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/navidrome.webp" width="48" height="36" /> | **navidrome** | ✅ | Navidrome is an open source web-based music collection server and streamer |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.webp" width="48" height="36" /> | **nextcloud** | 👷 | A private cloud server that puts the control and security of your own data back into your hands. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.webp" width="48" height="36" /> | **omada-controller<sup>x2</sup>** | ✅ | Omada is a SDN tool for TP-Link Omada hardware |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.webp" width="48" height="36" /> | **omada-controller** | ✅ | Omada is a SDN tool for TP-Link Omada hardware |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/onlyoffice-document-server.webp" width="48" height="36" /> | **onlyoffice-document-server** | ✅ | ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/openvscode-server.webp" width="48" height="36" /> | **openvscode-server** | ✅ | Openvscode-server provides a version of VS Code that runs a server on a remote machine. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pgadmin.webp" width="48" height="36" /> | **pgadmin** | ✅ | Web-Based postgresql database management utility |
@@ -70,5 +70,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.webp" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.webp" width="48" height="36" /> | **wordpress** | ✅ | The WordPress rich content management system can utilize plugins, widgets, and themes. |
 
- Installed Services Count: **55**
+ Installed Services Count: **54**
 ___

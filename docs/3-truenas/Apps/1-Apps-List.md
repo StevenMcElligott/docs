@@ -18,7 +18,6 @@ Train Descriptions:
 
 |Icon|Chart|Train|Description|
 | :-------------: |:-------------: | :-------------:	| :-------------	|
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.webp" width="48" height="36" /> | **authelia 🆕** | 👷 | Authelia is a Single Sign-On Multi-Factor portal for web apps |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authentik.webp" width="48" height="36" /> | **authentik 🆕** | ✅ | Authentik is an open-source Identity Provider focused on flexibility and versatility. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/calibre.webp" width="48" height="36" /> | **calibre 🆕** | ✅ | Calibre is a powerful and easy to use e-book manager. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/calibre-web.webp" width="48" height="36" /> | **calibre-web 🆕** | ✅ | Calibre-Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. |
@@ -42,7 +41,6 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/kasm.webp" width="48" height="36" /> | **kasm 🆕** | ✅ | Kasm Workspaces is a streaming platform for delivering browser-based access to desktops, applications, and web services. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/librespeed.webp" width="48" height="36" /> | **librespeed 🆕** | ✅ | Librespeed is a HTML5 webpage to test upload and download speeds |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.webp" width="48" height="36" /> | **littlelink 🆕** | ✅ | Easy platform to combine all your social links |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/lldap.webp" width="48" height="36" /> | **lldap 🆕** | ✅ | Lightweight ldap server for authentication and user management |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.webp" width="48" height="36" /> | **metallb** | 👷 | A network load-balancer implementation for Kubernetes using standard routing protocols |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb-config.webp" width="48" height="36" /> | **metallb-config 🆕** | 👷 | A network load-balancer implementation for Kubernetes using standard routing protocols |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/minio.webp" width="48" height="36" /> | **minio 🆕** | ✅ | Minio is a self-hosted S3 storage server |
@@ -69,5 +67,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.webp" width="48" height="36" /> | **vaultwarden 🆕** | 👷 | Unofficial Bitwarden compatible server written in Rust |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.webp" width="48" height="36" /> | **wg-easy 🆕** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 
- Installed Services Count: **53**
+ Installed Services Count: **51**
 ___

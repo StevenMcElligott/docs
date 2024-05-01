@@ -67,7 +67,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.webp" width="48" height="36" /> | **traefik** | 👷 | Traefik is a flexible reverse proxy and Ingress Provider. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.webp" width="48" height="36" /> | **vaultwarden** | 👷 | Unofficial Bitwarden compatible server written in Rust |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/volsync.webp" width="48" height="36" /> | **volsync 🆕** | ⚠️ | volsync is a storage backup and synchronisation tool. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.webp" width="48" height="36" /> | **wg-easy 🆕** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.webp" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 
  Installed Services Count: **53**
 ___

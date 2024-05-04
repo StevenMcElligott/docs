@@ -62,6 +62,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/readarr.webp" width="48" height="36" /> | **readarr** | ✅ | A fork of Radarr to work with Books & AudioBooks |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/remmina.webp" width="48" height="36" /> | **remmina** | ✅ | A remote desktop client written in GTK |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.webp" width="48" height="36" /> | **scrutiny** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/snapshot-controller.webp" width="48" height="36" /> | **snapshot-controller 🆕** | 👷 | Deploys a Snapshot Controller in a cluster. Snapshot Controllers are often bundled with the Kubernetes distribution, this chart is meant for cases where it is not. Also deploys the Snapshot Validation Webhook and configures your cluster to validate every `VolumeSnapshot` and `VolumeSnapshotContent` resource by sending it to the webhook. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.webp" width="48" height="36" /> | **sonarr** | ✅ | Smart PVR for newsgroup and bittorrent users |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/tailscale.webp" width="48" height="36" /> | **tailscale<sup>x2</sup>** | ✅ | Tailscale lets you connect your devices and users together in your own secure virtual private network |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.webp" width="48" height="36" /> | **traefik** | 👷 | Traefik is a flexible reverse proxy and Ingress Provider. |
@@ -69,5 +70,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/volsync.webp" width="48" height="36" /> | **volsync** | ⚠️ | volsync is a storage backup and synchronisation tool. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.webp" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 
- Installed Services Count: **53**
+ Installed Services Count: **54**
 ___

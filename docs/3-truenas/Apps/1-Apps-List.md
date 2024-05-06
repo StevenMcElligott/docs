@@ -58,7 +58,6 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.webp" width="48" height="36" /> | **prowlarr** | ✅ | Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/qbittorrent.webp" width="48" height="36" /> | **qbittorrent** | ✅ | qBittorrent is a cross-platform free and open-source BitTorrent client |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/radarr.webp" width="48" height="36" /> | **radarr** | ✅ | A fork of Sonarr to work with movies à la Couchpotato |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/readarr.webp" width="48" height="36" /> | **readarr 🆕** | ✅ | A fork of Radarr to work with Books & AudioBooks |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/remmina.webp" width="48" height="36" /> | **remmina** | ✅ | A remote desktop client written in GTK |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.webp" width="48" height="36" /> | **scrutiny** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/snapshot-controller.webp" width="48" height="36" /> | **snapshot-controller 🆕** | 👷 | Deploys a Snapshot Controller in a cluster. Snapshot Controllers are often bundled with the Kubernetes distribution, this chart is meant for cases where it is not. Also deploys the Snapshot Validation Webhook and configures your cluster to validate every `VolumeSnapshot` and `VolumeSnapshotContent` resource by sending it to the webhook. |
@@ -69,5 +68,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/volsync.webp" width="48" height="36" /> | **volsync** | ⚠️ | volsync is a storage backup and synchronisation tool. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.webp" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 
- Installed Services Count: **53**
+ Installed Services Count: **52**
 ___

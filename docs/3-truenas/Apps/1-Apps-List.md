@@ -26,7 +26,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflareddns.webp" width="48" height="36" /> | **cloudflareddns** | ✅ | Automate Cloudflare DNS records for those with a dynamic IP. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudnative-pg.webp" width="48" height="36" /> | **cloudnative-pg** | 👷 | CloudNativePG is a clustered postgresql database operator |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.webp" width="48" height="36" /> | **clusterissuer** | 👷 | Certificate management for Kubernetes |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.webp" width="48" height="36" /> | **custom-app** | 👷 | Advanced tool to create your own TrueCharts-based Charts |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.webp" width="48" height="36" /> | **custom-app<sup>x2</sup>** | 👷 | Advanced tool to create your own TrueCharts-based Charts |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/dell-idrac-fan-controller.webp" width="48" height="36" /> | **dell-idrac-fan-controller** | ✅ | Control your Dell PowerEdge fans via IPMI |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.webp" width="48" height="36" /> | **external-service<sup>x3</sup>** | ✅ | Allow external services to be used like Apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/filebrowser.webp" width="48" height="36" /> | **filebrowser** | ✅ | Filebrowser provides a file managing interface within a specified directory |
@@ -68,5 +68,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/volsync.webp" width="48" height="36" /> | **volsync** | ⚠️ | volsync is a storage backup and synchronisation tool. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.webp" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 
- Installed Services Count: **52**
+ Installed Services Count: **53**
 ___

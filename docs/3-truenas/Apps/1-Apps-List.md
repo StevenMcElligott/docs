@@ -54,6 +54,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/openvscode-server.webp" width="48" height="36" /> | **openvscode-server** | ✅ | Openvscode-server provides a version of VS Code that runs a server on a remote machine. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pgadmin.webp" width="48" height="36" /> | **pgadmin** | ✅ | Web-Based postgresql database management utility |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pihole.webp" width="48" height="36" /> | **pihole** | ✅ | DNS and Ad-filtering for your network |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/pingvin-share.webp" width="48" height="36" /> | **pingvin-share 🆕** | ⚠️ | Pingvin Share is self-hosted file sharing platform and an alternative for WeTransfer. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prometheus-operator.webp" width="48" height="36" /> | **prometheus-operator** | 👷 | Prometheus Operator is an operator for prometheus |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.webp" width="48" height="36" /> | **prowlarr** | ✅ | Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/qbittorrent.webp" width="48" height="36" /> | **qbittorrent** | ✅ | qBittorrent is a cross-platform free and open-source BitTorrent client |
@@ -68,5 +69,5 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/volsync.webp" width="48" height="36" /> | **volsync** | ⚠️ | volsync is a storage backup and synchronisation tool. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/wg-easy.webp" width="48" height="36" /> | **wg-easy** | ✅ | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 
- Installed Services Count: **53**
+ Installed Services Count: **54**
 ___
